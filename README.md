@@ -15,16 +15,16 @@ L'estimation de sa trajectoire donne accès à plusieurs dates auxquelles il ser
 Sur ce site, on obtient la table ci-dessous, avec une "distance nominale" classée par ordre croissant.
 ```
 Date/Time (TDB)                 Body	  Nominal Distance (km)	Minimum Distance (km)	Maximum Distance (km)
-2095-Sep-06 00:06 ±   00:20	 Earth	 51907	                1554                 	236516
-2010-Sep-08 21:13 ± < 00:01	 Earth	 79381	                79380                	79381
-2010-Sep-09 13:56 ± < 00:01     Moon	  108190	               108189               	108191
-1915-Sep-11 04:41 ±   00:25	 Moon	  354853	               327993               	381715
-2095-Sep-06 08:42 ±   16:44     Moon	  405909	               25069                	803787
-1915-Sep-10 06:13 ±   00:08	 Earth	 463223               	435921            	   490650
-2059-Feb-17 12:08 ±   00:07	 Earth	 3534843	              3528821          	    3540865
-1998-Apr-01 01:04 ±   00:01	 Earth	 4050362	              4050333              	4050390
-2009-Sep-09 08:42 ± < 00:01	 Earth	 4083600              	4082398              	4084803
-1916-Sep-08 04:52 ±   00:48	 Earth	 5042106	              4905899              	5178312
+2095-Sep-06 00:06 ±   00:20     Earth          51907                    1554                       236516
+2010-Sep-08 21:13 ± < 00:01     Earth          79381                    79380                      79381
+2010-Sep-09 13:56 ± < 00:01     Moon           108190                   108189                     108191
+1915-Sep-11 04:41 ±   00:25     Moon           354853                   327993                     381715
+2095-Sep-06 08:42 ±   16:44     Moon           405909                   25069                      803787
+1915-Sep-10 06:13 ±   00:08     Earth          463223                   435921                     490650
+2059-Feb-17 12:08 ±   00:07     Earth          3534843                  3528821                    3540865
+1998-Apr-01 01:04 ±   00:01     Earth          4050362                  4050333                    4050390
+2009-Sep-09 08:42 ± < 00:01     Earth          4083600                  4082398                    4084803
+1916-Sep-08 04:52 ±   00:48     Earth          5042106                  4905899                    5178312
 ```
 La visualisation des trajectoires sur différentes périodes de temps, et leur simulation, montrent la difficulté de prédire ces trajectoires à long terme et le changement notable de trajectoire après chaque passage à proximité de la Terre.
 
