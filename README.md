@@ -70,7 +70,7 @@ trace3D(Astre1='Soleil', Astre2='2010RF12')
 
 [asteroide.py](Code/asteroide.py)
 
-[2010RF12.ipynb](CNotebook/2010RF12.ipynb)
+[2010RF12.ipynb](Notebook/2010RF12.ipynb)
 
 ## Quelques figures
 
