@@ -66,6 +66,12 @@ La trajectoire de cet astéroïde peut aussi être visualisée.
 trace3D(Astre1='Soleil', Astre2='2010RF12')
 ```
 
+## Les programmes
+
+[asteroide.py](Code/asteroide.py)
+
+[2010RF12.ipynb](CNotebook/2010RF12.ipynb)
+
 ## Quelques figures
 
 ### 1900-2100
