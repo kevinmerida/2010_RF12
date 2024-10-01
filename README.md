@@ -68,13 +68,19 @@ trace3D(Astre1='Soleil', Astre2='2010RF12')
 
 ## Quelques figures
 
+### 1900-2100
+
 ![](Data/1900_2d.png)
 
 ![](Data/1900_3d.png)
 
+### 2094-2097
+
 ![](Data/2094_2d.png)
 
 ![](Data/2094_3d.png)
+
+### 2095
 
 ![](Data/2095_09_2d.png)
 
