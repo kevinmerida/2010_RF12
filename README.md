@@ -68,9 +68,9 @@ trace3D(Astre1='Soleil', Astre2='2010RF12')
 
 ## Les programmes
 
-[asteroide.py](Code/asteroide.py)
+Le code Python : [asteroide.py](Code/asteroide.py)
 
-[2010RF12.ipynb](Notebook/2010RF12.ipynb)
+Le notebook : [2010RF12.ipynb](Notebook/2010RF12.ipynb)
 
 ## Quelques figures
 
