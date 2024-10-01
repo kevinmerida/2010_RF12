@@ -14,7 +14,7 @@ L'estimation de sa trajectoire donne accès à plusieurs dates auxquelles il ser
 
 Sur ce site, on obtient la table ci-dessous, avec une "distance nominale" classée par ordre croissant.
 ```
-Date/Time (TDB)                 Body	  Nominal Distance (km)	Minimum Distance (km)	Maximum Distance (km)
+Date/Time (TDB)                 Body           Nominal Distance (km)    Minimum Distance (km)      Maximum Distance (km)
 2095-Sep-06 00:06 ±   00:20     Earth          51907                    1554                       236516
 2010-Sep-08 21:13 ± < 00:01     Earth          79381                    79380                      79381
 2010-Sep-09 13:56 ± < 00:01     Moon           108190                   108189                     108191
