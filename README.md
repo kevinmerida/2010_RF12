@@ -65,3 +65,17 @@ La trajectoire de cet astéroïde peut aussi être visualisée.
 ```python
 trace3D(Astre1='Soleil', Astre2='2010RF12')
 ```
+
+## Quelques figures
+
+![](Data/1900_2d.png)
+
+![](Data/1900_3d.png)
+
+![](Data/2094_2d.png)
+
+![](Data/2094_3d.png)
+
+![](Data/2095_09_2d.png)
+
+![](Data/2095_09_3d.png)
