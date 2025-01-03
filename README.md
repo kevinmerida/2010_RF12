@@ -76,6 +76,10 @@ Le code Python : [asteroide.py](Code/asteroide.py)
 
 Le notebook : [2010RF12.ipynb](Notebook/2010RF12.ipynb)
 
+La version de ce notebook sur Google Colab permet de tester directement les programmes via un simple navigateur :
+
+https://colab.research.google.com/drive/16pyuJryW6Q-YZAy2xdzyN8QbTeALqVwn?usp=sharing
+
 ## Quelques figures
 
 ### 1900-2100
