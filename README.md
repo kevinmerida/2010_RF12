@@ -1,6 +1,8 @@
 # 2010 RF12 (visualisations et simulations numériques en Python)
 
-La vidéo : https://www.youtube.com/watch?v=2r8XC338g7I
+## La vidéo
+
+https://www.youtube.com/watch?v=2r8XC338g7I
 
 ## Description
 
